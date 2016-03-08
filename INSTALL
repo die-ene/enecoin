@@ -1,0 +1,9 @@
+Building EneCoin
+
+See doc/readme-qt.rst for instructions on building EneCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of EneCoin.
+
+See doc/build-*.txt for instructions on building EneCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of EneCoin.
